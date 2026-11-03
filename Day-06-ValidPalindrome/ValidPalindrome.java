@@ -1,4 +1,4 @@
-/* Arrays : 7
+/* TwoPointers : 2
 Question : Valid Palindrome(125)
 Description : 
 Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
